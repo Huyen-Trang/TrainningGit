@@ -1,3 +1,8 @@
+
+
+<!-- Các anh chị ở đây rất vui vẻ, mình rất mong gặp được mọi người, hôm nay vui quá :) -->
+
+
 <?php require_once $_SERVER['DOCUMENT_ROOT'].'/bnews/templates/bnews/inc/header.php';?>
 				<div class="leftpanel">
 					<?php require_once $_SERVER['DOCUMENT_ROOT'].'/bnews/templates/bnews/inc/left_bar.php';?>

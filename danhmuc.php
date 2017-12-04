@@ -1,6 +1,6 @@
 
 
-<!-- Các anh chị ở đây rất vui vẻ, mình rất mong gặp được mọi người, hôm nay vui quá :) -->
+<!-- Các anh chị ở đây rất vui vẻ, mình rất mong gặp được mọi người, hôm nay vui quá :) Mai minh se co gang hon nua , ahihi -->
 
 
 <?php require_once $_SERVER['DOCUMENT_ROOT'].'/bnews/templates/bnews/inc/header.php';?>
